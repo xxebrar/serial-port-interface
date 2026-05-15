@@ -12,7 +12,8 @@ reception (RX) via a scrolled text area.
 Technical Details
 The core logic is contained in karsirealtermsu.py, which utilizes the pyserial library for robust
 serial communication.
-Requirements
+Requirements:
+
 ● Python 3.x
 ● pyserial library (Install via: pip install pyserial)
 
@@ -30,6 +31,8 @@ gerçek zamanlı veri alımı (RX) sağlar.
 Teknik Detaylar
 Uygulamanın ana mantığı karsirealtermsu.py dosyasında yer almaktadır ve kararlı bir seri
 iletişim için pyserial kütüphanesini kullanır.
-Gereksinimler
+Gereksinimler:
+
 ● Python 3.x
 ● pyserial kütüphanesi (Yüklemek için: pip install pyserial)
+<img width="533" height="796" alt="image" src="https://github.com/user-attachments/assets/70a85d7f-fe88-42c3-a3a4-9180c087bd03" />
